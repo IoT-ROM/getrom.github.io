@@ -75,13 +75,13 @@ comments_provider: gitalk
 disqus:
   username: 
 gitment:
-  owner: GetROM
+  owner: IoT-ROM
   repo: gitalk_store
   oauth:
     client_id: 1087ba267266a2585931
     client_secret: 83cd748ce24c66f4ab273a81947023b7ca61a6fd
 gitalk:
-  owner: GetROM
+  owner: IoT-ROM
   admin:getromcn
   repo: gitalk_store
   clientID: 1087ba267266a2585931
