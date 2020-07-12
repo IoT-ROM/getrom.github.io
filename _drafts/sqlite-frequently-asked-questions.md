@@ -1,6 +1,6 @@
 ---
 title: SQLite 二十八问
-date: 2020-07-12 14:32:07.696000000 +08:00
+date: 2020-07-12 14:32:07 +08:00
 categories:
 - SQLite
 layout: post
