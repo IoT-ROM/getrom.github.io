@@ -1,6 +1,8 @@
 ---
 title: 斐讯N1盒子固件合集
 date: 2020-07-11 14:36:00 +08:00
+categories:
+- 下载
 tags:
 - ROM
 ---
