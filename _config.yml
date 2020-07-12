@@ -82,7 +82,7 @@ gitment:
     client_secret: 56278047b66fc243addd189245222fccc93df1f3
 gitalk:
   owner: getrom
-  admin:getromcn
+  admin: getromcn
   repo: talk_store
   clientID: 70c48cfb182589fe05e8
   clientSecret: 56278047b66fc243addd189245222fccc93df1f3
