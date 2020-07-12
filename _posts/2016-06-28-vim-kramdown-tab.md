@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 简化 kramdown 列表嵌套内容缩进的 Vim 插件
-categories: Vim
+date: 2016-06-28 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: kramdown 的列表嵌套内容缩进不是使用 Tab，而是有更「严格」更「奇葩」的规定，这个插件就是来拯救为此苦恼的 Vimer。
 keywords: kramdown, Vim, indent
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: SQLite 二十八问
-categories: SQLite
+date: 2020-07-12 14:32:07.696000000 +08:00
+categories:
+- SQLite
+layout: post
 description: SQLite 官方 FAQ 翻译
 keywords: SQLite, FAQ
 ---

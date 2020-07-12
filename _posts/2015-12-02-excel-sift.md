@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Excel 保留行号的去重
-categories: Excel
+date: 2015-12-02 00:00:00 +08:00
+categories:
+- Excel
+layout: post
 description: 使用简单的公式对 Excel 里的排序数据进行保留行号的去重。
 keywords: Excel, Numbers
 ---

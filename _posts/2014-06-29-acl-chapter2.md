@@ -1,7 +1,9 @@
 ---
-layout: post
 title: ANSI Common Lisp 第二章习题解答
-categories: Lisp
+date: 2014-06-29 00:00:00 +08:00
+categories:
+- Lisp
+layout: post
 description: 学习 ANSI Common Lisp 第二章欢迎来到 Lisp 的笔记。
 keywords: Lisp
 ---

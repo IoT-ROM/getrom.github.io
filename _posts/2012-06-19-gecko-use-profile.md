@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 为基于 xulrunner 的内嵌 Gecko 程序启用 Profile
-categories: Gecko
+date: 2012-06-19 00:00:00 +08:00
+categories:
+- Gecko
+layout: post
 description: 为基于 xulrunner 为内嵌 Gecko 程序启用 Profile
 keywords: Gecko, Profile
 ---

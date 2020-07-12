@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Build Zeal for Mac OS X
-categories: Mac
+date: 2016-01-16 00:00:00 +08:00
+categories:
+- Mac
+layout: post
 description: Build Zeal for Mac OS X
 keywords: Mac OS X, Zeal
 ---

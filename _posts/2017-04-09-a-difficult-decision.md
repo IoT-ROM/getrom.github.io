@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 我做了一个有点艰难的决定
-categories: Blog
+date: 2017-04-09 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 我北漂之旅的终点，人生的新起点。
 keywords: 北漂
 ---

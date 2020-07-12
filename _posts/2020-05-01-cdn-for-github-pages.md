@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 使用 jsDelivr 免费加速 GitHub Pages 博客的静态资源
-categories: GitHub
+date: 2020-05-01 00:00:00 +08:00
+categories:
+- GitHub
+layout: post
 description: 使用 jsdelivr CDN 加速 GitHub Pages 博客的静态资源。
 keywords: GitHub, CDN, jsdelivr
 ---

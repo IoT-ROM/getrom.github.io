@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 可执行文件名中包含 install 或 setup
-categories: Windows
+date: 2013-05-19 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: EXE 文件名称中含有 install、update 或者 setup 会导致一些问题，现象和解决方法。
 keywords: EXE, Windows
 ---

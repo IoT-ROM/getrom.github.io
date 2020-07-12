@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 从一个 NullPointerException 探究 Java 的自动装箱拆箱机制
-categories: Java
+date: 2017-08-20 00:00:00 +08:00
+categories:
+- Java
+layout: post
 description: 因为遇到一个 NullPointerException，弄清了 Java 的自动装箱拆箱的原理。
 keywords: Java, 自动装箱, 自动拆箱
 ---

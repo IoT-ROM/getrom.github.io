@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 生活这件小事，烦请费思量
-categories: Blog
+date: 2015-02-01 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 生活中不能停止思考，不能沉溺于自己的一方井里成了无知的蛙。
 keywords: 生活感悟
 ---

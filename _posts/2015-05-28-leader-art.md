@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 领导与员工的艺术
-categories: Blog
+date: 2015-05-28 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 工作不是简单的完成任务，如何成为一名合格的员工，一名优秀的领导，里面大有学问。
 keywords: 领导, 员工
 ---

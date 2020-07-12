@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 使用 gVim 的 Python 自动补全时遇到的问题
-categories: Vim
+date: 2014-12-21 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: 使用 gVim 的 Python 自动补全时遇到了错误提示。
 keywords: gVim, Python
 ---

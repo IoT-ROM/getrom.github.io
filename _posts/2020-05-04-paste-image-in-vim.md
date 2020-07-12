@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 用 Vim 编辑 Markdown 时直接粘贴图片
-categories: Vim
+date: 2020-05-04 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: 在使用 Vim 编辑 Markdown 时，粘贴图片很不方便，用插件 md-img-paste.vim 解决这个痛点。
 keywords: Vim, Markdown, md-image-paste.vim
 ---

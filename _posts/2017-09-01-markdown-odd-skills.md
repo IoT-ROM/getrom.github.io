@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 关于 Markdown 的一些奇技淫巧
-categories: Markdown
+date: 2017-09-01 00:00:00 +08:00
+categories:
+- Markdown
+layout: post
 description: 介绍 Markdown 的一些高级用法。
 keywords: Markdown, 奇技淫巧
 ---

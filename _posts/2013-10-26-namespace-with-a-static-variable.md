@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 有 static 变量的 namespace 被多个 cpp 包含
-categories: CPlusPlus
+date: 2013-10-26 00:00:00 +08:00
+categories:
+- CPlusPlus
+layout: post
 description: 如果一个头文件里定义的 namespace 里有 static 变量，而这个头文件被多个 cpp 文件包含，会导致什么问题呢？
 keywords: C++
 ---

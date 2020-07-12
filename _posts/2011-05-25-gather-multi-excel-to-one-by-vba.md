@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 用 VBA 将多个 Excel 文件里的数据汇总到一个 Excel 表
-categories: Excel
+date: 2011-05-25 00:00:00 +08:00
+categories:
+- Excel
+layout: post
 description: 使用 VBA 将多个 Excel 文件里的数据汇总到一个 Excel 里。
 keywords: VBA, Excel
 ---

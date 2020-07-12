@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 为 Markdown 生成 TOC 的 Vim 插件
-categories: Vim
+date: 2015-12-19 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: 为 Markdown 自动生成 Table of Contents 的 Vim 插件
 keywords: vim, markdown, toc
 ---

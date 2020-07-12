@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 读书：追风筝的人
-categories: Blog
+date: 2017-02-19 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 希望自己有输入必有输出，这是开篇。
 keywords: 追风筝的人
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Firefox 和内嵌 Gecko 程序的 Plugins
-categories: Gecko
+date: 2012-03-15 00:00:00 +08:00
+categories:
+- Gecko
+layout: post
 description: 对使用 Gecko 的程序的插件注册与搜索机制的探索。
 keywords: Gecko, Mozilla, Plugin
 ---

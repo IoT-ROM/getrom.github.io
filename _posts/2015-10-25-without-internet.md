@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 断网之后
-categories: Blog
+date: 2015-10-25 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: Internet 极大地方便了我们的生活，也极大地吞噬了我们的生活。
 keywords: internet, 断网
 ---

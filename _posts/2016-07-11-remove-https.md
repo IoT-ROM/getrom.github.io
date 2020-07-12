@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Kloudsec 挂了，GitHub Pages 去 HTTPS 化
-categories: GitHub
+date: 2016-07-11 00:00:00 +08:00
+categories:
+- GitHub
+layout: post
 description: 收到 Kloudsec 将停止服务的消息，决定将 GitHub Pages 去 HTTPS 化。
 keywords: Kloudsec, GitHub Pages
 ---

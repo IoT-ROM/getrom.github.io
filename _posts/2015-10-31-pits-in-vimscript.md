@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Vimscript 中的坑
-categories: Vim
+date: 2015-10-31 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: Vimscript 的语法有些地方还是挺奇葩的，把一些容易写错的点记录下来备忘。
 keywords: Vim, Vimscript
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Windows 实现单实例进程的两种方法
-categories: Windows
+date: 2015-03-31 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: Windows 实现单实例进程的两种方法：共享静态数据和 Mutex。
 keywords: Windows, Process
 ---

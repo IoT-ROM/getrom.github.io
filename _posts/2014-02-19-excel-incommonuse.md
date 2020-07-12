@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Excel 常用操作
-categories: Excel
+date: 2014-02-19 00:00:00 +08:00
+categories:
+- Excel
+layout: post
 description: 操作 Excel 的常用函数总结。
 keywords: Excel
 ---

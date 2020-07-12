@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Android 源码分析 —— Handler、Looper 和 MessageQueue
-categories: Android
+date: 2018-06-11 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 分析 Android 消息机制的主要类
 keywords: Android, Handler, Looper, Message, MessageQueue
 ---

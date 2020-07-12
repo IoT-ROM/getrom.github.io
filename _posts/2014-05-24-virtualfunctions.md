@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 对象内存结构及虚函数表分析
-categories: CPlusPlus
+date: 2014-05-24 00:00:00 +08:00
+categories:
+- CPlusPlus
+layout: post
 description: C++ 对象结构模型与虚函数表的实例解析。
 keywords: C++
 ---

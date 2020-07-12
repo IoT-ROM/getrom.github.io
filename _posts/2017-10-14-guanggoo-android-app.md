@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 发布一款光谷社区第三方 Android App
-categories: Android
+date: 2017-10-14 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 光谷社区第三方 Android App。
 keywords: Android, 光谷社区
 ---

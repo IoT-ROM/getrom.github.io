@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Android 系统缓存扫描与清理方法分析
-categories: Android
+date: 2016-01-14 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: Android 系统缓存从原理探索到实现。
 keywords: Android, Cache, Cleaner, System Cache
 ---

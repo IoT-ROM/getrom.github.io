@@ -1,7 +1,9 @@
 ---
-layout: post
 title: GitHub 用户专属福利，实际到账 3K+，Namebase Airdrop
-categories: [GitHub]
+date: 2020-02-21 00:00:00 +08:00
+categories:
+- GitHub
+layout: post
 description: 使用 GitHub 一年以上的用户可以关注一下。
 keywords: GitHub, Namebase, Airdrop
 ---

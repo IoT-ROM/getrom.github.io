@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 判断前台 Activity 是否属于本进程
-categories: Android
+date: 2016-04-20 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 一种判断前台 Activity 是否属于本进程的方法。
 keywords: Android, Activity, Foreground
 ---

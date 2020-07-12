@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 不藏拙的人生
-categories: Blog
+date: 2016-03-14 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 真傻还是假聪明，这是个问题。
 keywords: 思维, 深度
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 定制 Fiddler 之抓获 WinHTTP 请求
-categories: Fiddler
+date: 2014-07-19 00:00:00 +08:00
+categories:
+- Fiddler
+layout: post
 description: Fiddler 默认只接管 WinINET 代理设置，如何让它截获 WinHTTP 请求。
 keywords: Fiddler, WinHTTP
 ---

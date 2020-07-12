@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 黑客马拉松参赛总结
-categories: Blog
+date: 2015-06-01 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 和同事组队参加了搜狗首届黑客马拉松，一些个人总结。
 keywords: Hackathon
 ---

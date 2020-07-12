@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Moziila 文件结构概览（译）
-categories: Gecko
+date: 2012-03-01 00:00:00 +08:00
+categories:
+- Gecko
+layout: post
 description: 对 Mozilla 官方文档中的文件结构概览的翻译。
 keywords: Mozilla
 ---

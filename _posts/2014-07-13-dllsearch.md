@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 默认的 DLL 搜索路径优先级
-categories: Windows
+date: 2014-07-13 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: Windows 上 EXE 加载 DLL 时的搜索路径与顺序。
 keywords: Dll, Windows
 ---

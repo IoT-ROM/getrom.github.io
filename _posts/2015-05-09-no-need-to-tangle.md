@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 一些不必纠结的事情
-categories: Blog
+date: 2015-05-09 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 有一些事不需要纠结，但是还是偶尔会在脑中萦绕不去，记下来提醒自己。
 keywords: 纠结
 ---

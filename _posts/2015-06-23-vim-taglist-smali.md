@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 为 Vim 添加 Smali 语法高亮和 Taglist 支持
-categories: Vim
+date: 2015-06-23 00:00:00 +08:00
+categories:
+- Vim
+layout: post
 description: 想使用 Vim 更加舒服地阅读 Smali 源码，那就为它添加上语法高亮，定义跳转和 Taglist 或 Tagbar 支持。
 keywords: Vim, Smali, Taglist, Ctags, Tagbar
 ---

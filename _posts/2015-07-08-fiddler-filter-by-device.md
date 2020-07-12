@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 定制 Fiddler 之按设备过滤请求
-categories: Fiddler
+date: 2015-07-08 00:00:00 +08:00
+categories:
+- Fiddler
+layout: post
 description: 当有多台设备时如何方便地从满屏纷飞的 Session 中筛选出你关心的内容？
 keywords: Fiddler, Filter, Device
 ---
