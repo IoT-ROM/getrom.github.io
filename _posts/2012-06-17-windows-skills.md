@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Windows 实用技巧汇总
-categories: Windows
+date: 2012-06-17 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: 平时使用 Windows 时总结的一些实用的小技巧。
 keywords: Windows, Skill
 ---

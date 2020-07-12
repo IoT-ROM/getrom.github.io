@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 你忙得踏实吗？
-categories: Blog
+date: 2015-07-23 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 忙分为「不知所谓的忙」和「有目的性高效踏实的忙」，如何忙得踏实？
 keywords: 生活的艺术
 ---

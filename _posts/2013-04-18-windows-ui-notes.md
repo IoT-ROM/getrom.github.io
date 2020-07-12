@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Windows 界面相关小知识点
-categories: Windows
+date: 2013-04-18 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: Win32 编程中与界面相关的一些小的知识点总结。
 keywords: Windows, UI
 ---

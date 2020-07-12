@@ -1,7 +1,9 @@
 ---
+title: 搭建大型源码阅读环境——使用 OpenGrok
+date: 2016-12-14 00:00:00 +08:00
+categories:
+- Tools
 layout: post
-title: 搭建大型源码阅读环境——使用 OpenGrok 
-categories: Tools
 description: RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。
 keywords: OpenGrok, RTFSC
 ---

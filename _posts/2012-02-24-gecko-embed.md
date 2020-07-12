@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 将 Mozilla 源码里的 winEmbed 工程移植到 VC
-categories: Gecko
+date: 2012-02-24 00:00:00 +08:00
+categories:
+- Gecko
+layout: post
 description: Mozilla 源码里有一个简单的内嵌 Gecko 的示例工程 winEmbed，但是无法直接在 VC 中使用，这是将它移植到 VC 中的方法。
 keywords: winEmbed, Mozilla
 ---

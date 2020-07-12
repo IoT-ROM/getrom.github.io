@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Android 源码分析开篇
-categories: Android
+date: 2017-09-23 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 开始 Android 源码和一些优秀的第三方类库的分析
 keywords: Android, RTFSC
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: COM 原理与应用学习笔记
-categories: COM
+date: 2014-06-01 00:00:00 +08:00
+categories:
+- COM
+layout: post
 description: 略读了一遍《COM 原理与应用》后的摘要笔记。
 keywords: COM
 ---

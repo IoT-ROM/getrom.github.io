@@ -1,7 +1,9 @@
 ---
-layout: post
 title: VBA 在 Excel 中的常用操作
-categories: Excel
+date: 2012-03-22 00:00:00 +08:00
+categories:
+- Excel
+layout: post
 description: 使用 VBA 操作 Excel 表格的一些常用用法的笔记。
 keywords: VBA, Excel
 ---

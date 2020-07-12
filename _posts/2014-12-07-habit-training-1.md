@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 好习惯 one by one 之一
-categories: Blog
+date: 2014-12-07 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 一次训练一个好习惯的计划，第一期。
 keywords: 好习惯, 计划
 ---

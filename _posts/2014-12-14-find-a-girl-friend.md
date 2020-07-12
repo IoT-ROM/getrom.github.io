@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 工科男难找对象的那点事儿
-categories: Blog
+date: 2014-12-14 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 为什么工科男难找对象？总结最可能的几个原因。
 keywords: 工科男, 找对象
 ---

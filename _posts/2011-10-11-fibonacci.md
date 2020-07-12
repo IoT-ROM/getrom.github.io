@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 青蛙跳台阶的问题——Fibonacci
-categories: Algorithm
+date: 2011-10-11 00:00:00 +08:00
+categories:
+- Algorithm
+layout: post
 description: 使用 Fibonacci 来解决青蛙跳台阶的问题。
 keywords: 算法，Fibonacci
 ---

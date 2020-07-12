@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 图解 SQL 里的各种 JOIN
-categories: Database
+date: 2017-09-11 00:00:00 +08:00
+categories:
+- Database
+layout: post
 description: 用文氏图和示例来理解 SQL 里的各种 JOIN。
 keywords: SQL, Database, 文氏图
 ---

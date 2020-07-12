@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Win7 下部署 Discuz!
-categories: PHP
+date: 2015-06-14 00:00:00 +08:00
+categories:
+- PHP
+layout: post
 description: 在 Win7 下部署 Discuz! 的详细步骤。
 keywords: PHP, Discuz
 ---

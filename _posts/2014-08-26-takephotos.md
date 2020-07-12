@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 摄影教训总结
-categories: Blog
+date: 2014-08-26 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 历次出游摄影的一些失败的点。
 keywords: 摄影, 教训
 ---

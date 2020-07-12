@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 一份简明的 Base64 原理解析
-categories: Java
+date: 2020-03-07 00:00:00 +08:00
+categories:
+- Java
+layout: post
 description: Base64 的原理其实很简单
 keywords: Base64
 ---

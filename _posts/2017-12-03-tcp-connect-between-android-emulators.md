@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 解决两个 Android 模拟器之间无法网络通信的问题
-categories: Android
+date: 2017-12-03 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 如何配置，让同一台 PC 上的两个 Android 模拟器之间能够使用 TCP 通信？
 keywords: Android, Emulator, TCP
 ---

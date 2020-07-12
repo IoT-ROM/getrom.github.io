@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Windows API 中的坑
-categories: Windows
+date: 2014-03-07 00:00:00 +08:00
+categories:
+- Windows
+layout: post
 description: 在 Windows API 中有一些坑，一不小心就会引发一些不易察觉的 Bug。
 keywords: API
 ---

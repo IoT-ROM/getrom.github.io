@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 记一个折磨了我一天半的 Bug
-categories: Java
+date: 2019-05-25 00:00:00 +08:00
+categories:
+- Java
+layout: post
 description: 一杯茶，一根烟，一个 Bug 一天根本改不完。
 keywords: Java, Bug
 ---

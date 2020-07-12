@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Android Studio 遇到问题集锦
-categories: Android
+date: 2015-05-06 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: Android Studio 使用过程中遇到的一些问题和解决方案集合。
 keywords: Android, Android Studio
 ---

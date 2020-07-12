@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 情绪管理的建议
-categories: Blog
+date: 2014-12-06 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 个人对情绪管理上的一些好的建议的总结。
 keywords: 情绪管理
 ---

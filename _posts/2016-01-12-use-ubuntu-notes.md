@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Ubuntu 使用笔记
-categories: Linux
+date: 2016-01-12 00:00:00 +08:00
+categories:
+- Linux
+layout: post
 description: 使用 Ubuntu 遇到一些问题，笔记在此备忘。
 keywords: Linux, Ubuntu
 ---

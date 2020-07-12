@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 光谷社区第三方 Android 客户端 v2.0 发布
-categories: Android
+date: 2018-04-30 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: 光谷社区第三方 Android 客户端重大升级，全新界面与交互体验。
 keywords: 光谷, guanggoo, Android
 ---

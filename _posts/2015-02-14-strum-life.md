@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 乱弹一气人生
-categories: Blog
+date: 2015-02-14 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 今天要踏上回家过年的路，年末不矫情总结一把总像缺点啥。
 keywords: 人生
 ---

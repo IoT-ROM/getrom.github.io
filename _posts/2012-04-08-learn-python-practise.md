@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Python 核心编程中文第二版课后练习 3.8 答案
-categories: Python
+date: 2012-04-08 00:00:00 +08:00
+categories:
+- Python
+layout: post
 description: 自学 Python 核心编程过程中对课后习题的答案记录。
 keywords: Python
 ---

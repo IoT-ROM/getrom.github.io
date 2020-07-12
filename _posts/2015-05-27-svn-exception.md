@@ -1,7 +1,9 @@
 ---
-layout: post
 title: TortoiseSVN 从 GitHub 更新时发生异常
-categories: SVN
+date: 2015-05-27 00:00:00 +08:00
+categories:
+- SVN
+layout: post
 description: TortoiseSVN 从 GitHub 更新时发生异常，附解决方案。
 keywords: TortoiseSVN, github
 ---

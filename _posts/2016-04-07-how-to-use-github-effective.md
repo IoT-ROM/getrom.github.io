@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 如何有效使用 GitHub
-categories: GitHub
+date: 2016-04-07 00:00:00 +08:00
+categories:
+- GitHub
+layout: post
 description: 使用 GitHub 的频度很高，但是否有效利用了这个好东西？
 keywords: GitHub
 ---

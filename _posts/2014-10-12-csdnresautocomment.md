@@ -1,7 +1,9 @@
 ---
-layout: post
 title: CSDN 已下载资源自动批量评论脚本
-categories: Python
+date: 2014-10-12 00:00:00 +08:00
+categories:
+- Python
+layout: post
 description: 自动一次性评论所有 CSDN 已下载资源的脚本。
 keywords: Python, CSDN
 ---

@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 去看特立独行的猪
-categories: Blog
+date: 2015-06-12 00:00:00 +08:00
+categories:
+- Blog
+layout: post
 description: 2015 年 6 月 6 日，雷雨降兮，待初霁，去看你，满腿泥泞，天空却如洗。
 keywords: 王小波
 ---

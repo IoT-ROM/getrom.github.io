@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Android 源码分析 —— 从 Toast 出发
-categories: Android
+date: 2017-11-12 00:00:00 +08:00
+categories:
+- Android
+layout: post
 description: Android 源码分析，深入解析 Toast。
 keywords: RTFSC, Android, Toast
 ---
