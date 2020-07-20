@@ -23,7 +23,7 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：2.2 / 2018/09/20
 
-* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/238d919025584ceab08fd29be9f7b20c) / 微云
 
 ### 语音实用版固件 制作者：YYFrom
 
@@ -33,7 +33,7 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：夏杰语音实用版 / 2020/01/04
 
-* 下载： [OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载： [OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/dd2b88426d154d80bbad0a3c94945a89) / 微云
 
 ### 极限精简固件 制作者：Rush
 
@@ -43,7 +43,7 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：6.26 / 2020/03/23
 
-* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/8d55373b3fb147498e89f628b1373f80) / 微云
 
 ## Armbian系统
 
@@ -55,7 +55,7 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：20190411-2042
 
-* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/2338d784cb4f444486fe8f9f72044773) / 微云
 
 ## Openwrt系统
 
@@ -67,7 +67,7 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：38\+ / 38\+O / 2020/07/02
 
-* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/dc9d0efae84242ffa8ca0636d29de802) / 微云
 
 ## 多系统
 
@@ -79,4 +79,4 @@ N1安卓（官改）固件鼻祖，几乎所有的安卓固件都是基于此固
 
 * 整理版本：3.95 / 2020/07/06
 
-* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / UC网盘 / 微云
+* 下载：[OneDrive](https://service-lyvb06iw-1251569806.hk.apigw.tencentcs.com/release/MyDisk/N1) / [UC网盘](https://www.yun.cn/s/b474f69ec5824e83bf4d01b8570fd0cf) / 微云
