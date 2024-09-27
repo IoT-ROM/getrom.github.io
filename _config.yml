@@ -1,3 +1,4 @@
+---
 title: 固件全收集
 timezone: Asia/Shanghai
 collections:
@@ -63,7 +64,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: "/:year/:month/:day/:title/"
+permalink: "/:title-:year-:month-:day/"
 plugins:
 - jekyll-github-metadata
 - rouge
@@ -82,7 +83,7 @@ gitment:
     client_secret: 56278047b66fc243addd189245222fccc93df1f3
 gitalk:
   owner: getrom
-  admin:getromcn
+  admin: getromcn
   repo: talk_store
   clientID: 70c48cfb182589fe05e8
   clientSecret: 56278047b66fc243addd189245222fccc93df1f3
